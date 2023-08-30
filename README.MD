@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" src="https://gaojianghua.oss-cn-hangzhou.aliyuncs.com/wt.png" width="150" height="150" style="margin-bottom: 10px;">
+    <img alt="logo" src="https://gaojianghua.oss-cn-hangzhou.aliyuncs.com/wt.png" width="120" height="120" style="margin-bottom: 10px;">
 </p>
 <h3 align="center" style="margin: 30px 0 30px;font-weight: bold;font-size:40px;">Wolffy Tools</h3>
 
